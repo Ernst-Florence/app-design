@@ -1,6 +1,6 @@
 # app-design
 ## Infos
-alle inhalte wurden unter basierend auf spezifische vorgaben erstellt. Es gab sowohl design vorgaben, als auch vorgaben die den Inhalt besteffen.
+Alle Inhalte wurden basierend auf spezifischen Vorgaben erstellt. Es gab sowohl Designvorgaben als auch Vorgaben, die den Inhalt betreffen.
 
 ### series app
 https://xd.adobe.com/view/9e0ef1d1-f184-429a-b2b2-8aa71fa6800e-cb5d/
